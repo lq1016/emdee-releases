@@ -1,5 +1,5 @@
 {
-  "version": "0.4.8",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.8/Emdee-0.4.8-arm64.dmg",
-  "notes": "界面视觉优化（扁平文档列表、侧栏与标签栏刷新）；可顺带验证自动更新流程"
+  "version": "0.4.9",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.9/Emdee-0.4.9-arm64.dmg",
+  "notes": "边编边预览等宽、公式面板排版修复；未签名 Mac 自动覆盖安装到应用程序并 xattr"
 }
