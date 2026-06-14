@@ -1,5 +1,5 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.0/Emdee-0.4.0-arm64.dmg",
-  "notes": "亮/暗外观跟随 macOS 系统\n视图菜单手动黑暗模式\n分别记忆亮/暗主题"
+  "version": "0.4.1",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.1/Emdee-0.4.1-arm64.dmg",
+  "notes": "修复关于窗口「检查更新」网络失败\n优先使用 jsDelivr 镜像拉取 update.json"
 }
