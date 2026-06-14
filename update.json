@@ -1,5 +1,5 @@
 {
-  "version": "0.4.7",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.7/Emdee-0.4.7-arm64.dmg",
-  "notes": "修复自动更新卡在「正在准备安装包」；未签名版改为引导手动安装 DMG"
+  "version": "0.4.8",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.8/Emdee-0.4.8-arm64.dmg",
+  "notes": "界面视觉优化（扁平文档列表、侧栏与标签栏刷新）；可顺带验证自动更新流程"
 }
