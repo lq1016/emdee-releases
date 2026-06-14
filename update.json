@@ -1,5 +1,5 @@
 {
-  "version": "0.4.10",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.10/Emdee-0.4.10-arm64.dmg",
-  "notes": "修复公式面板未点击就自动弹出的问题"
+  "version": "0.4.11",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.11/Emdee-0.4.11-arm64.dmg",
+  "notes": "启用本地 KaTeX，预览区可正确渲染行内/块级公式"
 }
