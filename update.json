@@ -1,5 +1,5 @@
 {
-  "version": "0.4.9",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.9/Emdee-0.4.9-arm64.dmg",
-  "notes": "边编边预览等宽、公式面板排版修复；未签名 Mac 自动覆盖安装到应用程序并 xattr"
+  "version": "0.4.10",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.10/Emdee-0.4.10-arm64.dmg",
+  "notes": "修复公式面板未点击就自动弹出的问题"
 }
