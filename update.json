@@ -1,5 +1,5 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.2/Emdee-0.4.2-arm64.dmg",
-  "notes": "应用内自动更新：下载 zip 后重启即可安装\n检查更新改用 electron-updater"
+  "version": "0.4.3",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.3/Emdee-0.4.3-arm64.dmg",
+  "notes": "修复自动更新缺少 latest-mac.yml 导致检查失败"
 }
