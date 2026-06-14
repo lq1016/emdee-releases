@@ -1,5 +1,5 @@
 {
-  "version": "0.4.6",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.6/Emdee-0.4.6-arm64.dmg",
-  "notes": "修复公式快捷工具面板点击无效（挂到顶层并避免被预览区遮挡）"
+  "version": "0.4.7",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.7/Emdee-0.4.7-arm64.dmg",
+  "notes": "修复自动更新卡在「正在准备安装包」；未签名版改为引导手动安装 DMG"
 }
