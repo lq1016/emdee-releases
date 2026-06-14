@@ -1,5 +1,5 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.3.0/Emdee-0.3.0-arm64.dmg",
-  "notes": "Typora 风格主题\n简化检查更新\n偏好设置修复"
+  "version": "0.4.0",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.0/Emdee-0.4.0-arm64.dmg",
+  "notes": "亮/暗外观跟随 macOS 系统\n视图菜单手动黑暗模式\n分别记忆亮/暗主题"
 }
