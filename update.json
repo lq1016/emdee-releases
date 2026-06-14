@@ -1,5 +1,5 @@
 {
-  "version": "0.4.5",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.5/Emdee-0.4.5-arm64.dmg",
-  "notes": "更新说明正确换行显示\n检查/下载更新过程有进度提示\n修复立即重启无反应"
+  "version": "0.4.6",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.6/Emdee-0.4.6-arm64.dmg",
+  "notes": "修复公式快捷工具面板点击无效（挂到顶层并避免被预览区遮挡）"
 }
