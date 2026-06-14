@@ -1,5 +1,5 @@
 {
-  "version": "0.4.4",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.4/Emdee-0.4.4-arm64.dmg",
-  "notes": "工具栏图标悬停显示功能提示\n修复公式快捷工具面板点击无效"
+  "version": "0.4.5",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.5/Emdee-0.4.5-arm64.dmg",
+  "notes": "更新说明正确换行显示\n检查/下载更新过程有进度提示\n修复立即重启无反应"
 }
