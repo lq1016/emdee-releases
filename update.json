@@ -1,5 +1,5 @@
 {
-  "version": "0.4.12",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.12/Emdee-0.4.12-arm64.dmg",
-  "notes": "升级 Cherry Markdown 0.11.3；支持 Mermaid 源码切换与图表编辑；工具栏新增表格；窗口底部状态栏含实时时钟；设置可配置点击关闭时最小化或退出"
+  "version": "0.4.13",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.13/Emdee-0.4.13-arm64.dmg",
+  "notes": "统一 Lucide 图标风格；原生菜单图标；关闭前未保存提醒；文库底部按钮图标"
 }
