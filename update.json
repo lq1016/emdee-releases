@@ -1,5 +1,5 @@
 {
-  "version": "0.4.11",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.11/Emdee-0.4.11-arm64.dmg",
-  "notes": "启用本地 KaTeX，预览区可正确渲染行内/块级公式"
+  "version": "0.4.12",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.12/Emdee-0.4.12-arm64.dmg",
+  "notes": "升级 Cherry Markdown 0.11.3；支持 Mermaid 源码切换与图表编辑；工具栏新增表格；窗口底部状态栏含实时时钟；设置可配置点击关闭时最小化或退出"
 }
