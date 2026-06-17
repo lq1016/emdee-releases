@@ -1,5 +1,5 @@
 {
-  "version": "0.4.13",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.13/Emdee-0.4.13-arm64.dmg",
-  "notes": "统一 Lucide 图标风格；原生菜单图标；关闭前未保存提醒；文库底部按钮图标"
+  "version": "0.4.14",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.14/Emdee-0.4.14-arm64.dmg",
+  "notes": "测试发版：验证 0.4.13 → 0.4.14 应用内自动更新流程"
 }
