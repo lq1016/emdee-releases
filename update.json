@@ -1,5 +1,5 @@
 {
-  "version": "0.4.14",
-  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.14/Emdee-0.4.14-arm64.dmg",
-  "notes": "测试发版：验证 0.4.13 → 0.4.14 应用内自动更新流程"
+  "version": "0.4.15",
+  "url": "https://github.com/lq1016/emdee-releases/releases/download/v0.4.15/Emdee-0.4.15-arm64.dmg",
+  "notes": "移除导出 Markdown；统一导出菜单文案；导出成功显示保存路径；修复预览区相对路径图片不显示等问题"
 }
